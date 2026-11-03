@@ -16,37 +16,49 @@ concurrency:
 jobs:
   core:
     name: HexMobileCore tests
-    # The package needs swift-tools-version 6.2; the runner image must ship
-    # Xcode 27 or later. Pin a newer image here when macos-latest lags behind.
-    runs-on: macos-latest
+    # The package needs the iOS 27 SDK (Xcode 27 or later). The select step
+    # picks the newest Xcode on the runner; when none is 27+, the job skips
+    # the build with a warning instead of failing on API renames.
+    runs-on: macos-26
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - name: Select Xcode 27 or later
+        id: xcode
+        run: bash .github/scripts/select-xcode.sh
       - name: Toolchain
         run: |
           xcodebuild -version
           swift --version
       - name: swift test
+        if: steps.xcode.outputs.ok == 'true'
         working-directory: Packages/HexMobileCore
         run: swift test
 
   ios-build:
     name: Unsigned iOS build
-    runs-on: macos-latest
+    runs-on: macos-26
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+      - name: Select Xcode 27 or later
+        id: xcode
+        run: bash .github/scripts/select-xcode.sh
       - name: Toolchain
         run: |
           xcodebuild -version
           xcodebuild -showsdks | grep -i iphone || true
       - name: Install XcodeGen
+        if: steps.xcode.outputs.ok == 'true'
         run: brew install xcodegen
       - name: Generate project
+        if: steps.xcode.outputs.ok == 'true'
         run: make project
       - name: Build for generic iOS device (no signing)
+        if: steps.xcode.outputs.ok == 'true'
         run: make build-device
       - name: Build for iOS Simulator (no signing)
+        if: steps.xcode.outputs.ok == 'true'
         run: make build-sim
       - name: Upload build logs
         if: always()
