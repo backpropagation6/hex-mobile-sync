@@ -1,0 +1,36 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Dictate with ${applicationName}": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detta con ${applicationName}"
+          }
+        }
+      }
+    },
+    "Start a ${applicationName} flow session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia una sessione flow di ${applicationName}"
+          }
+        }
+      }
+    },
+    "Toggle ${applicationName} dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva o disattiva la dettatura di ${applicationName}"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

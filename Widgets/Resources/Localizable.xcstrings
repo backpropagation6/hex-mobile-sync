@@ -1,0 +1,216 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "End Session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina sessione"
+          }
+        }
+      }
+    },
+    "Fixing the text…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistemo il testo…"
+          }
+        }
+      }
+    },
+    "Flow session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sessione flow"
+          }
+        }
+      }
+    },
+    "Hex Dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dettatura Hex"
+          }
+        }
+      }
+    },
+    "Hex Mobile": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hex Mobile"
+          }
+        }
+      }
+    },
+    "On this iPhone": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su questo iPhone"
+          }
+        }
+      }
+    },
+    "Open Hex Mobile once, then try again. Dictation runs in the app.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri Hex Mobile una volta, poi riprova. La dettatura avviene nell'app."
+          }
+        }
+      }
+    },
+    "Open the Hex Mobile keyboard to insert it": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri la tastiera Hex Mobile per inserirlo"
+          }
+        }
+      }
+    },
+    "Press the Action Button to dictate": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premi il Tasto Azione per dettare"
+          }
+        }
+      }
+    },
+    "Ready to dictate": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pronto a dettare"
+          }
+        }
+      }
+    },
+    "Recording": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrazione"
+          }
+        }
+      }
+    },
+    "Start dictation, or stop and copy the text.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia la dettatura, oppure fermala e copia il testo."
+          }
+        }
+      }
+    },
+    "Starts dictation. Run it again to stop, transcribe on this iPhone and copy the text. The microphone then turns off as soon as the Hex Mobile keyboard has taken the text, after a minute at most, unless a flow session was already running.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia la dettatura. Eseguilo di nuovo per fermarla, trascrivere su questo iPhone e copiare il testo. Poi il microfono si spegne appena la tastiera Hex Mobile ha preso il testo, al massimo dopo un minuto, a meno che una sessione flow fosse già attiva."
+          }
+        }
+      }
+    },
+    "Stays on until you end it": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resta attiva finché non la termini"
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma"
+          }
+        }
+      }
+    },
+    "Stop Dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma dettatura"
+          }
+        }
+      }
+    },
+    "Stops the current dictation or ends the flow session.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma la dettatura in corso o termina la sessione flow."
+          }
+        }
+      }
+    },
+    "Text ready": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testo pronto"
+          }
+        }
+      }
+    },
+    "Toggle Dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva/disattiva dettatura"
+          }
+        }
+      }
+    },
+    "Transcribing…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trascrizione…"
+          }
+        }
+      }
+    },
+    "Use the Hex Mobile keyboard": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usa la tastiera Hex Mobile"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

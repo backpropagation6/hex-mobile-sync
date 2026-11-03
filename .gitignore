@@ -1,0 +1,15 @@
+.DS_Store
+*.xcodeproj/
+build/
+DerivedData/
+.build/
+# Swift packages built on their own pin the same versions as the app; only the exact pin in Package.swift counts
+Packages/*/Package.resolved
+tools/*/Package.resolved
+.swiftpm/
+Config/Local.xcconfig
+*.xcuserstate
+xcuserdata/
+
+# Claude Code scratch space
+.claude/

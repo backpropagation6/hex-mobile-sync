@@ -1,0 +1,16 @@
+// Shared build settings for every target and configuration.
+//
+// Signing: set DEVELOPMENT_TEAM (and optionally BUNDLE_ID_PREFIX) in
+// Config/Local.xcconfig, which is gitignored. Copy Local.xcconfig.example to
+// start. A free Apple ID (Personal Team) is enough: the project uses no
+// capability that needs a paid account (no App Groups, no iCloud, no push).
+
+// Reverse-DNS prefix of every bundle identifier. Bundle identifiers must be
+// unique per Apple ID: with a free Personal Team, change it to something you own.
+BUNDLE_ID_PREFIX = io.github.hexmobile
+
+// Your Apple developer team ID. Empty here on purpose.
+DEVELOPMENT_TEAM =
+
+// Local overrides (optional file, must stay the last line so it wins).
+#include? "Local.xcconfig"

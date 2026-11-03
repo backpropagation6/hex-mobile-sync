@@ -1,0 +1,20 @@
+{
+  "sound_effects": true,
+  "history_retention": "week",
+  "transcription": { "model": "fixture_model", "language": "en" },
+  "vocabulary": [
+    { "term": "Grafana", "sounds_like": ["graph ana"] },
+    { "term": "OpenTelemetry", "sounds_like": ["open tele metry"] }
+  ],
+  "dictation_processing": {
+    "default_mode": {
+      "name": "Global",
+      "applications": [],
+      "browser_hosts": [],
+      "replacements": [{ "matched_phrase": "full stop", "output": "." }],
+      "transformations": [],
+      "post_processing": { "enabled": true, "prompt": "FIXTURE-SECRET-PROMPT", "model": "fixture-model", "variant": "v", "deadline_seconds": 5 }
+    },
+    "modes": []
+  }
+}

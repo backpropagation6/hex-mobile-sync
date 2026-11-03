@@ -1,0 +1,11 @@
+{
+  "version": 4,
+  "status": "vocabulary",
+  "entries": [
+    { "term": "Kubernetes", "sounds_like": ["cube er net ease", "cooper netties"] },
+    { "term": "PostgreSQL", "sounds_like": ["postgres q l", "post gress"] },
+    { "term": "perché", "sounds_like": ["perche"] },
+    { "term": "Example Studio", "sounds_like": ["example studios", "esempio studio"] },
+    { "term": "SwiftUI", "sounds_like": [] }
+  ]
+}

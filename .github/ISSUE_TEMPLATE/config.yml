@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Problems with Hex on the Mac
+    url: https://github.com/anomalyco/hex/issues
+    about: Hex Mobile Sync is unofficial. Report Hex desktop issues to the Hex project, not here.

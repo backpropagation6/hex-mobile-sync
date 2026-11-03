@@ -1,0 +1,306 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "A dictation is ready. Tap the insert key to add it.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Una dettatura è pronta. Tocca il tasto Inserisci per aggiungerla."
+          }
+        }
+      }
+    },
+    "Cancel dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annulla dettatura"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chiudi"
+          }
+        }
+      }
+    },
+    "Connecting to Hex Mobile…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connessione a Hex Mobile…"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elimina"
+          }
+        }
+      }
+    },
+    "Dictate": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detta"
+          }
+        }
+      }
+    },
+    "Dictation could not start.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La dettatura non è partita."
+          }
+        }
+      }
+    },
+    "Finish dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina dettatura"
+          }
+        }
+      }
+    },
+    "Insert last dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inserisci l'ultima dettatura"
+          }
+        }
+      }
+    },
+    "Listening… ✓ to insert, ✕ to cancel": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In ascolto… ✓ per inserire, ✕ per annullare"
+          }
+        }
+      }
+    },
+    "Next keyboard": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tastiera successiva"
+          }
+        }
+      }
+    },
+    "No dictation on the clipboard yet.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessuna dettatura negli appunti."
+          }
+        }
+      }
+    },
+    "Open Hex Mobile and start a flow session, then come back.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri Hex Mobile, avvia una sessione flow e poi torna qui."
+          }
+        }
+      }
+    },
+    "Retry": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riprova"
+          }
+        }
+      }
+    },
+    "Starts or stops dictation in Hex Mobile.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia o ferma la dettatura in Hex Mobile."
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma"
+          }
+        }
+      }
+    },
+    "Tap the microphone to dictate": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca il microfono per dettare"
+          }
+        }
+      }
+    },
+    "Tap the microphone to start a flow session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca il microfono per avviare una sessione flow"
+          }
+        }
+      }
+    },
+    "Tap to dictate · hold to talk": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca per dettare · tieni premuto per parlare"
+          }
+        }
+      }
+    },
+    "This dictation was already inserted.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa dettatura è già stata inserita."
+          }
+        }
+      }
+    },
+    "Transcribing": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trascrizione"
+          }
+        }
+      }
+    },
+    "Transcribing…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trascrizione…"
+          }
+        }
+      }
+    },
+    "Turn on Allow Full Access for Hex Mobile in Settings > Keyboards.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva Consenti accesso completo per Hex Mobile in Impostazioni > Tastiere."
+          }
+        }
+      }
+    },
+    "done": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fine"
+          }
+        }
+      }
+    },
+    "go": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vai"
+          }
+        }
+      }
+    },
+    "next": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "avanti"
+          }
+        }
+      }
+    },
+    "return": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "invio"
+          }
+        }
+      }
+    },
+    "search": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "cerca"
+          }
+        }
+      }
+    },
+    "send": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "invia"
+          }
+        }
+      }
+    },
+    "space": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "spazio"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-11-01T10:00:00Z",
+  "source": { "app": "Hex", "app_version": "3.1.1", "via": "cli", "host_hint": "ignored" },
+  "language": "it",
+  "vocabulary": [
+    { "term": "Kubernetes", "sounds_like": ["cube er net ease", "cooper netties"] },
+    { "term": "PostgreSQL", "sounds_like": ["postgres q l", "post gress"] },
+    { "term": "perché", "sounds_like": ["perche"] },
+    { "term": "Example Studio", "sounds_like": ["example studios", "esempio studio"], "added_by": "ignored" },
+    { "term": "SwiftUI" }
+  ],
+  "default_mode": {
+    "name": "Global",
+    "applications": [],
+    "browser_hosts": [],
+    "replacements": [
+      { "matched_phrase": "punto e virgola", "output": ";" },
+      { "matched_phrase": "a capo", "output": "\n" }
+    ],
+    "transformations": []
+  },
+  "modes": [
+    {
+      "name": "Terminal",
+      "applications": ["Terminal", "ExampleTerm"],
+      "browser_hosts": [],
+      "replacements": [ { "matched_phrase": "slash", "output": "/" } ],
+      "transformations": ["no-trailing-punctuation"]
+    },
+    {
+      "name": "Chat",
+      "applications": [],
+      "browser_hosts": ["chat.example.com"],
+      "replacements": [],
+      "transformations": ["lowercase", "my-personal-command"]
+    }
+  ],
+  "future_section": { "anything": [1, 2, 3] }
+}

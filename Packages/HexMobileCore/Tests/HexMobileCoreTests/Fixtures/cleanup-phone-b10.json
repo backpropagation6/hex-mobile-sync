@@ -1,0 +1,158 @@
+[
+ {
+  "name": "s01-vocab",
+  "input": "Ciao Marco, ti scrivo per dirti che la riunione di giovedì è spostata a venerdì pomeriggio.",
+  "output": "Ciao Marco, ti scrivo per dirti che la riunione di giovedì è spostata a venerdì pomeriggio.",
+  "expected": "accept"
+ },
+ {
+  "name": "s02-vocab",
+  "input": "Dobbiamo aggiornare il modello su Uging Fade e poi rifare il fine tuning con lo RA.",
+  "output": "Dobbiamo aggiornare il modello su Uging Fade e poi rifare il fine tuning con lo RA.",
+  "expected": "accept"
+ },
+ {
+  "name": "s03-vocab",
+  "input": "Domani mattina devo chiamare il commercialista per la dichiarazione dei Rebiti.",
+  "output": "Domani mattina devo chiamare il commercialista per la dichiarazione dei Rebiti.",
+  "expected": "accept"
+ },
+ {
+  "name": "s04-vocab",
+  "input": "Il deploy su Vercell è andato a buon fine, ma la pipeline di Sanity ha dato un errore.",
+  "output": "Il deploy su Vercelli è andato a buon fine, ma la pipeline di Sanity ha dato un errore.",
+  "expected": "edited"
+ },
+ {
+  "name": "s05-vocab",
+  "input": "Ho preparato il preventivo per Zentrix, poi lo mando a Mauro con l'iva indicata a parte.",
+  "output": "Ho preparato il preventivo per Zentrix, poi lo mando a Mauro con l'IVA indicata a parte.",
+  "expected": "accept"
+ },
+ {
+  "name": "s06-vocab",
+  "input": "Questa mattina ho provato la dettatura sul telefono e funziona meglio di ieri.",
+  "output": "Questa mattina ho provato la dettatura sul telefono e funziona meglio di ieri.",
+  "expected": "accept"
+ },
+ {
+  "name": "s07-vocab",
+  "input": "Ricordami di comprare il latte, le uova e il pane quando esco dall'ufficio.",
+  "output": "Ricordami di comprare il latte, le uova e il pane quando esco dall'ufficio.",
+  "expected": "accept"
+ },
+ {
+  "name": "s08-vocab",
+  "input": "Il simulatore di Xcode non carica il modello italiano, quindi provo direttamente sul telefono.",
+  "output": "Il simulatore di Xcode non carica il modello italiano, quindi provo direttamente sul telefono.",
+  "expected": "accept"
+ },
+ {
+  "name": "s09-vocab",
+  "input": "Ho sentito Paolo Ferrandi e Giulia Castaldi, ci vediamo a Bergamo la settimana prossima.",
+  "output": "Ho sentito Paolo Ferrandi e Giulia Castaldi, ci vediamo a Bergamo la settimana prossima.",
+  "expected": "accept"
+ },
+ {
+  "name": "s10-vocab",
+  "input": "sta andando proprio alla grande, perché comunque bene o male il sistema funziona.",
+  "output": "Sta andando proprio alla grande, perché comunque il sistema funziona.",
+  "expected": "edited"
+ },
+ {
+  "name": "mid01-vocab",
+  "input": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e termini tecnici per questo vorrei fare un secondo passaggio sull'audio registrato con il modello più accurato",
+  "output": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e termini tecnici; per questo vorrei fare un secondo passaggio sull'audio registrato con il modello più accurato.",
+  "expected": "accept"
+ },
+ {
+  "name": "long01-vocab",
+  "input": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e termini tecnici per questo vorrei fare un secondo passaggio sull'audio registrato con il modello più accurato e poi pulire il testo con il modello di linguaggio che sta sul telefono alla fine voglio misurare quanto migliora davvero confrontando le varianti sulle stesse registrazioni, perché senza numeri è facile raccontarsi una storia comoda se il risultato è buono lo lascio attivo altrimenti torno indietro e provo un'altra strada",
+  "output": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e termini tecnici. Per questo vorrei fare un secondo passaggio sull'audio registrato con il modello più accurato e poi pulire il testo con il modello di linguaggio che sta sul telefono. Alla fine voglio misurare quanto migliora davvero confrontando le varianti sulle stesse registrazioni, perché senza numeri è facile raccontarsi una storia comoda. Se il risultato è buono lo lascio attivo, altrimenti torno indietro e provo un'altra strada.",
+  "expected": "accept"
+ },
+ {
+  "name": "long02-vocab",
+  "input": "Questa è una prova più lunga per controllare che la trascrizione non perda pezzi quando la registrazione dura a lungo. Immagina di dettare una nota per un cliente devo ricordarmi di inviare la bozza del contratto entro venerdì di verificare con il commercialista le scadenze fiscali e di preparare la presentazione per la riunione di lunedì nella presentazione voglio spiegare come funziona il sistema di automazione che ho costruito quali sono i processi che girano ogni notte e come si controlla che tutto sia andato a buon fine. Poi voglio aggiungere una sezione sui costi con una stima onesta del tempo di manutenzione dei rischi principali. Un altro punto riguarda il sito devo aggiornare le pagine dei servizi, controllare i link interni e verificare che il deploy suver cell non abbia rotto niente. Infine devo ricordarmi di scrivere a Mauro per chiedere se la demo di giovedì è confermata e di preparare un esempio concreto con i dati del loro gestionale Se resta tempo nel pomeriggio, voglio rivedere il piano per il corso e sistemare le slide. Questo è l'ultimo punto della lista ed è qui che finisce la registrazione",
+  "output": "Questa è una prova più lunga per controllare che la trascrizione non perda pezzi quando la registrazione dura a lungo. Immagina di dettare una nota per un cliente: devo ricordarmi di inviare la bozza del contratto entro venerdì, verificare con il commercialista le scadenze fiscali e preparare la presentazione per la riunione di lunedì. Nella presentazione voglio spiegare come funziona il sistema di automazione che ho costruito, quali sono i processi che girano ogni notte e come si controlla che tutto sia andato a buon fine. Poi voglio aggiungere una sezione sui costi con una stima onesta del tempo di manutenzione dei rischi principali. Un altro punto riguarda il sito: devo aggiornare le pagine dei servizi, controllare i link interni e verificare che il deploy suver cell non abbia rotto niente. Infine devo ricordarmi di scrivere a Mauro per chiedere se la demo di giovedì è confermata e preparare un esempio concreto con i dati del loro gestionale. Se resta tempo nel pomeriggio, voglio rivedere il piano per il corso e sistemare le slide. Questo è l'ultimo punto della lista e è qui che finisce la registrazione.",
+  "expected": "edited"
+ },
+ {
+  "name": "s01-novocab",
+  "input": "Ciao Marco, ti scrivo per dirti che la riunione di giovedì è spostata a venerdì pomeriggio.",
+  "output": "Ciao Marco, ti scrivo per dirti che la riunione di giovedì è spostata a venerdì pomeriggio.",
+  "expected": "accept"
+ },
+ {
+  "name": "s02-novocab",
+  "input": "Dobbiamo aggiornare il modello su Uging Fade e poi rifare il fine tuning con lo RA.",
+  "output": "Dobbiamo aggiornare il modello su Uging Fade e poi rifare il fine tuning con lo RA.",
+  "expected": "accept"
+ },
+ {
+  "name": "s03-novocab",
+  "input": "Domani mattina devo chiamare il commercialista per la dichiarazione dei Rebiti.",
+  "output": "Domani mattina devo chiamare il commercialista per la dichiarazione dei Rebiti.",
+  "expected": "accept"
+ },
+ {
+  "name": "s04-novocab",
+  "input": "Il deploy su Vercell è andato a buon fine, ma la pipeline di Senity ha dato un errore.",
+  "output": "Il deploy su Vercelli è andato a buon fine, ma la pipeline di Senity ha dato un errore.",
+  "expected": "edited"
+ },
+ {
+  "name": "s05-novocab",
+  "input": "Ho preparato il preventivo per zentri, poi lo mando a Mauro con l'iva indicata a parte.",
+  "output": "Ho preparato il preventivo per Zentri, poi lo mando a Mauro con l'IVA indicata a parte.",
+  "expected": "accept"
+ },
+ {
+  "name": "s06-novocab",
+  "input": "Questa mattina ho provato la dettatura sul telefono e funziona meglio di ieri.",
+  "output": "Questa mattina ho provato la dettatura sul telefono e funziona meglio di ieri.",
+  "expected": "accept"
+ },
+ {
+  "name": "s07-novocab",
+  "input": "Ricordami di comprare il latte, le uova e il pane quando esco dall'ufficio.",
+  "output": "Ricordami di comprare il latte, le uova e il pane quando esco dall'ufficio.",
+  "expected": "accept"
+ },
+ {
+  "name": "s08-novocab",
+  "input": "Il simulatore di Xcode non carica il modello italiano, quindi provo direttamente sul telefono.",
+  "output": "Il simulatore di Xcode non carica il modello italiano, quindi provo direttamente sul telefono.",
+  "expected": "accept"
+ },
+ {
+  "name": "s09-novocab",
+  "input": "Ho sentito Paolo Ferrandi e Giulia Castaldi, ci vediamo a Bergamo la settimana prossima.",
+  "output": "Ho sentito Paolo Ferrandi e Giulia Castaldi, ci vediamo a Bergamo la settimana prossima.",
+  "expected": "accept"
+ },
+ {
+  "name": "s10-novocab",
+  "input": "Sta andando proprio alla grande, perché comunque bene o male il sistema funziona.",
+  "output": "Sta andando proprio alla grande, perché, comunque, bene o male, il sistema funziona.",
+  "expected": "accept"
+ },
+ {
+  "name": "mid01-novocab",
+  "input": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e i termini tecnici. Per questo vorrei fare un secondo passaggio sull'audio registrato, con il modello più accurato.",
+  "output": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e i termini tecnici. Per questo vorrei fare un secondo passaggio sull'audio registrato, con il modello più accurato.",
+  "expected": "accept"
+ },
+ {
+  "name": "long01-novocab",
+  "input": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e termini tecnici per questo vorrei fare un secondo passaggio sull'audio registrato con il modello più accurato e poi pulire il testo con il modello di linguaggio che sta sul telefono alla fine voglio misurare quanto migliora davvero confrontando le varianti sulle stesse registrazioni, perché senza numeri è facile raccontarsi una storia comoda se il risultato è buono lo lascio attivo altrimenti torno indietro e provo un'altra strada",
+  "output": "Oggi ho passato la mattina a rivedere il flusso di dettatura dell'applicazione. Il primo problema è che il testo arriva senza punteggiatura e con le maiuscole nei posti sbagliati, quindi lo devo correggere a mano ogni volta. Il secondo problema è che il riconoscitore veloce sbaglia alcune parole, soprattutto i nomi propri e termini tecnici. Per questo vorrei fare un secondo passaggio sull'audio registrato con il modello più accurato e poi pulire il testo con il modello di linguaggio che sta sul telefono. Alla fine voglio misurare quanto migliora davvero confrontando le varianti sulle stesse registrazioni, perché senza numeri è facile raccontarsi una storia comoda. Se il risultato è buono lo lascio attivo, altrimenti torno indietro e provo un'altra strada.",
+  "expected": "accept"
+ },
+ {
+  "name": "long02-novocab",
+  "input": "Questa è una prova più lunga per controllare che la trascrizione non perda pezzi quando la registrazione dura a lungo. Immagina di dettare una nota per un cliente devo ricordarmi di inviare la bozza del contratto entro venerdì di verificare con il commercialista le scadenze fiscali e di preparare la presentazione per la riunione di lunedì nella presentazione voglio spiegare come funziona il sistema di automazione che ho costruito quali sono i processi che girano ogni notte e come si controlla che tutto sia andato a buon fine. Poi voglio aggiungere una sezione sui costi con una stima onesta del tempo di manutenzione dei rischi principali. Un altro punto riguarda il sito devo aggiornare le pagine dei servizi, controllare i link interni e verificare che il deploy suver cell non abbia rotto niente. Infine devo ricordarmi di scrivere a Mauro per chiedere se la demo di giovedì è confermata e di preparare un esempio concreto con i dati del loro gestionale Se resta tempo nel pomeriggio, voglio rivedere il piano per il corso e sistemare le slide. Questo è l'ultimo punto della lista ed è qui che finisce la registrazione",
+  "output": "Questa è una prova più lunga per controllare che la trascrizione non perda pezzi quando la registrazione dura a lungo. Immagina di dettare una nota per un cliente: devo ricordarmi di inviare la bozza del contratto entro venerdì, verificare con il commercialista le scadenze fiscali e preparare la presentazione per la riunione di lunedì. Nella presentazione voglio spiegare come funziona il sistema di automazione che ho costruito, quali sono i processi che girano ogni notte e come si controlla che tutto sia andato a buon fine. Poi voglio aggiungere una sezione sui costi con una stima onesta del tempo di manutenzione dei rischi principali. Un altro punto riguarda il sito: devo aggiornare le pagine dei servizi, controllare i link interni e verificare che il deploy suver cell non abbia rotto niente. Infine devo ricordarmi di scrivere a Mauro per chiedere se la demo di giovedì è confermata e preparare un esempio concreto con i dati del loro gestionale. Se resta tempo nel pomeriggio, voglio rivedere il piano per il corso e sistemare le slide. Questo è l'ultimo punto della lista e è qui che finisce la registrazione.",
+  "expected": "edited"
+ }
+]

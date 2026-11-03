@@ -1,0 +1,3 @@
+#!/bin/bash
+# Records notification requests instead of showing them (tests only).
+printf '%s\n' "$*" >>"${NOTIFY_RECORD:?NOTIFY_RECORD not set}"

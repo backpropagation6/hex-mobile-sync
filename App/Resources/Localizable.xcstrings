@@ -1,0 +1,2316 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ is not a large-v3 model. Only the large-v3 family is supported.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ non è un modello large-v3. È supportata solo la famiglia large-v3."
+          }
+        }
+      }
+    },
+    "%@ · Mode: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · Modalità: %2$@"
+          }
+        }
+      }
+    },
+    "%lld min": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min"
+          }
+        }
+      }
+    },
+    "1 Day": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 giorno"
+          }
+        }
+      }
+    },
+    "1 Month": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 mese"
+          }
+        }
+      }
+    },
+    "1 Week": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 settimana"
+          }
+        }
+      }
+    },
+    "1 hour": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 ora"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Informazioni"
+          }
+        }
+      }
+    },
+    "Access to the sync folder was denied. Pick the folder again in Settings.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accesso alla cartella di sincronizzazione negato. Scegli di nuovo la cartella nelle Impostazioni."
+          }
+        }
+      }
+    },
+    "Action Button": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tasto Azione"
+          }
+        }
+      }
+    },
+    "Active": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva"
+          }
+        }
+      }
+    },
+    "Add": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aggiungi"
+          }
+        }
+      }
+    },
+    "Add Term": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aggiungi termine"
+          }
+        }
+      }
+    },
+    "Added on iPhone": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aggiunti su iPhone"
+          }
+        }
+      }
+    },
+    "Adds punctuation and capitals, removes hesitations and applies spoken corrections (“no, anzi…”) with the language model on this iPhone. The text never leaves the device. If the model is not available or takes too long, you get the text as the recognizer heard it.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aggiunge punteggiatura e maiuscole, toglie le esitazioni e applica le correzioni a voce («no, anzi…») con il modello linguistico di questo iPhone. Il testo non lascia mai il dispositivo. Se il modello non è disponibile o ci mette troppo, ottieni il testo come l'ha sentito il riconoscitore."
+          }
+        }
+      }
+    },
+    "After you stop, Apple reads the recording again for a more accurate text. With Whisper, the Whisper model then reads it too, in the time that is left, and its text replaces Apple's when it arrives in time and keeps at least half of the words. The app never downloads the model: copy it from your Mac (see the README). It stays in memory while a dictation session is open.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dopo lo stop, Apple rilegge la registrazione per ottenere un testo più accurato. Con Whisper, anche il modello Whisper la legge, nel tempo che resta, e il suo testo sostituisce quello di Apple se arriva in tempo e mantiene almeno la metà delle parole. L'app non scarica mai il modello: copialo dal Mac (vedi il README). Resta in memoria finché una sessione di dettatura è aperta."
+          }
+        }
+      }
+    },
+    "Allow Universal Clipboard": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consenti Appunti universali"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aspetto"
+          }
+        }
+      }
+    },
+    "Apple": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple"
+          }
+        }
+      }
+    },
+    "Automatic (%@)": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatica (%@)"
+          }
+        }
+      }
+    },
+    "Automatic (Hex: %@)": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatica (Hex: %@)"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annulla"
+          }
+        }
+      }
+    },
+    "Change Folder…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cambia cartella…"
+          }
+        }
+      }
+    },
+    "Choose Sync Folder…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scegli cartella di sincronizzazione…"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chiudi"
+          }
+        }
+      }
+    },
+    "Comma-separated, optional": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Separate da virgola, facoltative"
+          }
+        }
+      }
+    },
+    "Compiling the model for the Neural Engine: about 12 minutes the first time. Keep Hex Mobile open on screen until the status says Ready.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compilazione del modello per il Neural Engine: circa 12 minuti la prima volta. Tieni Hex Mobile aperta sullo schermo finché lo stato non dice Pronto."
+          }
+        }
+      }
+    },
+    "Control Center": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Centro di Controllo"
+          }
+        }
+      }
+    },
+    "Copied": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiato"
+          }
+        }
+      }
+    },
+    "Copies stay on this iPhone unless you allow Universal Clipboard, which also offers them to your other devices. With Copy to Clipboard off, a dictation started from the Hex Mobile keyboard is still placed on the clipboard so the keyboard can insert it; that copy stays on this iPhone and expires after two minutes.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le copie restano su questo iPhone, a meno che tu non consenta gli Appunti universali, che le rendono disponibili anche sugli altri tuoi dispositivi. Con Copia negli appunti disattivato, una dettatura avviata dalla tastiera Hex Mobile finisce comunque negli appunti perché la tastiera possa inserirla; quella copia resta su questo iPhone e scade dopo due minuti."
+          }
+        }
+      }
+    },
+    "Copy": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copia"
+          }
+        }
+      }
+    },
+    "Copy to Clipboard": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copia negli appunti"
+          }
+        }
+      }
+    },
+    "Could not load: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Caricamento non riuscito: %@"
+          }
+        }
+      }
+    },
+    "Dark by default": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scuro di default"
+          }
+        }
+      }
+    },
+    "Default (%@)": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Predefinita (%@)"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elimina"
+          }
+        }
+      }
+    },
+    "Delete All": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elimina tutto"
+          }
+        }
+      }
+    },
+    "Delete Kept Audio": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elimina l'audio conservato"
+          }
+        }
+      }
+    },
+    "Delete all dictations?": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminare tutte le dettature?"
+          }
+        }
+      }
+    },
+    "Delete the kept audio?": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminare l'audio conservato?"
+          }
+        }
+      }
+    },
+    "Dictate": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detta"
+          }
+        }
+      }
+    },
+    "Dictation (on-device)": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dettatura (sul dispositivo)"
+          }
+        }
+      }
+    },
+    "Dictation could not start": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La dettatura non è partita"
+          }
+        }
+      }
+    },
+    "Dictation could not start. Press the Action Button again.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La dettatura non è partita. Premi di nuovo il Tasto Azione."
+          }
+        }
+      }
+    },
+    "Dictation did not start in time. Try again.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La dettatura non è partita in tempo. Riprova."
+          }
+        }
+      }
+    },
+    "Dictation failed": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dettatura non riuscita"
+          }
+        }
+      }
+    },
+    "Dictation was interrupted. Try again.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La dettatura è stata interrotta. Riprova."
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fine"
+          }
+        }
+      }
+    },
+    "Double-tap to start or stop dictation.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca due volte per avviare o fermare la dettatura."
+          }
+        }
+      }
+    },
+    "Download Model": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scarica modello"
+          }
+        }
+      }
+    },
+    "Download the on-device model for %@ once. After that, dictation works offline.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scarica una volta il modello sul dispositivo per %@. Dopo, la dettatura funziona anche offline."
+          }
+        }
+      }
+    },
+    "Downloading": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Download in corso"
+          }
+        }
+      }
+    },
+    "Downloading speech model": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Download del modello vocale"
+          }
+        }
+      }
+    },
+    "Downloading…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Download in corso…"
+          }
+        }
+      }
+    },
+    "End After Idle": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina dopo inattività"
+          }
+        }
+      }
+    },
+    "End Flow Session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termina sessione flow"
+          }
+        }
+      }
+    },
+    "Enter a term.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inserisci un termine."
+          }
+        }
+      }
+    },
+    "Every dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ogni dettatura"
+          }
+        }
+      }
+    },
+    "Exported by Mac": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esportato dal Mac"
+          }
+        }
+      }
+    },
+    "Final Text": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testo finale"
+          }
+        }
+      }
+    },
+    "Final Text Engine": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motore del testo finale"
+          }
+        }
+      }
+    },
+    "Finished dictations appear here and are kept on this iPhone for one day.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le dettature completate compaiono qui e restano su questo iPhone per un giorno."
+          }
+        }
+      }
+    },
+    "Finished dictations appear here and are kept on this iPhone for one month.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le dettature completate compaiono qui e restano su questo iPhone per un mese."
+          }
+        }
+      }
+    },
+    "Finished dictations appear here and are kept on this iPhone for one week.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le dettature completate compaiono qui e restano su questo iPhone per una settimana."
+          }
+        }
+      }
+    },
+    "Finished dictations appear here and are kept on this iPhone until you delete them.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le dettature completate compaiono qui e restano su questo iPhone finché non le elimini."
+          }
+        }
+      }
+    },
+    "Fix the Text": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistema il testo"
+          }
+        }
+      }
+    },
+    "Flow Session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sessione flow"
+          }
+        }
+      }
+    },
+    "Flow session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sessione flow"
+          }
+        }
+      }
+    },
+    "Folder": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cartella"
+          }
+        }
+      }
+    },
+    "For the keyboard": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per la tastiera"
+          }
+        }
+      }
+    },
+    "Forever": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sempre"
+          }
+        }
+      }
+    },
+    "Forget Folder": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dimentica cartella"
+          }
+        }
+      }
+    },
+    "Forget the sync folder?": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dimenticare la cartella di sincronizzazione?"
+          }
+        }
+      }
+    },
+    "From Hex on your Mac": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Da Hex sul tuo Mac"
+          }
+        }
+      }
+    },
+    "Go back to your app: tap the button at the top left, or swipe right along the bottom edge. Dictation keeps running.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Torna alla tua app: tocca il pulsante in alto a sinistra oppure scorri verso destra lungo il bordo inferiore. La dettatura continua."
+          }
+        }
+      }
+    },
+    "Hex Mobile": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hex Mobile"
+          }
+        }
+      }
+    },
+    "Hex Mobile is an unofficial companion for the Hex dictation app on macOS. It is not affiliated with Hex or its author.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hex Mobile è un'app compagna non ufficiale di Hex, l'app di dettatura per macOS. Non è affiliata con Hex né con il suo autore."
+          }
+        }
+      }
+    },
+    "Hex applies modes per app on the Mac. On iPhone the default mode is used unless you pick one here.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sul Mac Hex applica le modalità per app. Su iPhone si usa la modalità predefinita, a meno che tu non ne scelga una qui."
+          }
+        }
+      }
+    },
+    "Hex has no vocabulary terms yet.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hex non ha ancora termini nel vocabolario."
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cronologia"
+          }
+        }
+      }
+    },
+    "History stays on this iPhone and is not included in iCloud or computer backups. When sharing is on, the final text of each dictation is also written to %@ in the sync folder; turning sharing off removes that file.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cronologia resta su questo iPhone e non è inclusa nei backup di iCloud o del computer. Con la condivisione attiva, il testo finale di ogni dettatura viene scritto anche in %@ nella cartella di sincronizzazione; disattivando la condivisione il file viene rimosso."
+          }
+        }
+      }
+    },
+    "In any app, switch to the Hex Mobile keyboard with the globe key and tap the microphone. Hex Mobile opens and starts dictating at once: go back to your app with the button at the top left, or by swiping right along the bottom edge.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In qualsiasi app passa alla tastiera Hex Mobile con il tasto globo e tocca il microfono. Hex Mobile si apre e inizia subito a dettare: torna alla tua app con il pulsante in alto a sinistra, oppure scorrendo verso destra lungo il bordo inferiore."
+          }
+        }
+      }
+    },
+    "Installed": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Installato"
+          }
+        }
+      }
+    },
+    "Keep Audio to Improve Recognition": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conserva l'audio per migliorare il riconoscimento"
+          }
+        }
+      }
+    },
+    "Keep History": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conserva cronologia"
+          }
+        }
+      }
+    },
+    "Keeps the microphone ready in the background so the Hex Mobile keyboard can dictate in any app. Ends after %lld idle minutes.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiene il microfono pronto in background, così la tastiera Hex Mobile può dettare in qualsiasi app. Termina dopo %lld minuti di inattività."
+          }
+        }
+      }
+    },
+    "Keeps the microphone ready in the background so the Hex Mobile keyboard can dictate in any app. Stays on until you end it.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiene il microfono pronto in background, così la tastiera Hex Mobile può dettare in qualsiasi app. Resta attiva finché non la termini."
+          }
+        }
+      }
+    },
+    "Keeps the microphone ready so the Hex Mobile keyboard can dictate in any app. Ends after the idle time set in the app.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiene il microfono pronto, così la tastiera Hex Mobile può dettare in qualsiasi app. Termina dopo il tempo di inattività impostato nell'app."
+          }
+        }
+      }
+    },
+    "Kept Dictations": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dettature conservate"
+          }
+        }
+      }
+    },
+    "Keyboard": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tastiera"
+          }
+        }
+      }
+    },
+    "Language": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lingua"
+          }
+        }
+      }
+    },
+    "Light Appearance": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aspetto chiaro"
+          }
+        }
+      }
+    },
+    "Listening": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In ascolto"
+          }
+        }
+      }
+    },
+    "Listening…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In ascolto…"
+          }
+        }
+      }
+    },
+    "Loading…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Caricamento…"
+          }
+        }
+      }
+    },
+    "Measure Recognition": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Misura il riconoscimento"
+          }
+        }
+      }
+    },
+    "Microphone access is off. Turn it on in Settings > Privacy & Security > Microphone.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'accesso al microfono è disattivato. Attivalo in Impostazioni > Privacy e sicurezza > Microfono."
+          }
+        }
+      }
+    },
+    "Microphone and speech recognition access are needed for a flow session.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per una sessione flow servono l'accesso al microfono e al riconoscimento vocale."
+          }
+        }
+      }
+    },
+    "Mode": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modalità"
+          }
+        }
+      }
+    },
+    "Names and technical words you add here help recognition and keep their spelling. They are sent to Hex on your Mac at the next sync.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I nomi e i termini tecnici che aggiungi qui aiutano il riconoscimento e ne mantengono la grafia. Vengono inviati a Hex sul Mac alla prossima sincronizzazione."
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mai"
+          }
+        }
+      }
+    },
+    "No dictation is running.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nessuna dettatura in corso."
+          }
+        }
+      }
+    },
+    "No hex-mobile-sync.json in this folder yet. Run the Mac sync script, then refresh.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In questa cartella non c'è ancora hex-mobile-sync.json. Esegui lo script di sincronizzazione sul Mac, poi aggiorna."
+          }
+        }
+      }
+    },
+    "No iCloud permission is needed: the app only accesses the folder you pick.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non serve alcun permesso iCloud: l'app accede solo alla cartella che scegli."
+          }
+        }
+      }
+    },
+    "No microphone input is available.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nessun ingresso microfono disponibile."
+          }
+        }
+      }
+    },
+    "No network access, no analytics. Audio and text never leave this iPhone except the files you choose to write to the sync folder and copies you allow on Universal Clipboard.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nessun accesso alla rete, nessuna analisi. Audio e testo non lasciano mai questo iPhone, tranne i file che scegli di scrivere nella cartella di sincronizzazione e le copie che consenti negli Appunti universali."
+          }
+        }
+      }
+    },
+    "No speech was recognized.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non è stato riconosciuto alcun parlato."
+          }
+        }
+      }
+    },
+    "No steps yet. Hex pastes your words as it heard them.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessun passaggio. Hex incolla le tue parole così come le ha sentite."
+          }
+        }
+      }
+    },
+    "No vocabulary terms to give recognition yet.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessun termine di vocabolario per il riconoscimento."
+          }
+        }
+      }
+    },
+    "No vocabulary terms yet: Apple's recognizer and Whisper get no hint for your names and terms. Sync again, or add a term in the Vocabulary tab.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessun termine di vocabolario: il riconoscitore di Apple e Whisper non hanno indizi sui tuoi nomi e termini. Sincronizza di nuovo, o aggiungi un termine nella scheda Vocabolario."
+          }
+        }
+      }
+    },
+    "No vocabulary yet. Pick the Hex Mobile folder in Settings to give recognition your terms.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessun vocabolario. Scegli la cartella Hex Mobile nelle Impostazioni per dare al riconoscimento i tuoi termini."
+          }
+        }
+      }
+    },
+    "No vocabulary yet: Apple's recognizer and Whisper get no hint for your names and terms until you pick the folder.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessun vocabolario: il riconoscitore di Apple e Whisper non hanno indizi sui tuoi nomi e termini finché non scegli la cartella."
+          }
+        }
+      }
+    },
+    "Not installed": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non installato"
+          }
+        }
+      }
+    },
+    "Not loaded": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non caricato"
+          }
+        }
+      }
+    },
+    "Not set up": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non configurata"
+          }
+        }
+      }
+    },
+    "Not supported": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non supportata"
+          }
+        }
+      }
+    },
+    "Not synced yet": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non ancora sincronizzata"
+          }
+        }
+      }
+    },
+    "Nothing dictated yet. Tap the hexagon and start speaking, or hold it to talk.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessuna dettatura. Tocca l'esagono e inizia a parlare, oppure tienilo premuto per parlare."
+          }
+        }
+      }
+    },
+    "Nothing synced yet. Pick the Hex Mobile folder in Settings.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nulla di sincronizzato. Scegli la cartella Hex Mobile nelle Impostazioni."
+          }
+        }
+      }
+    },
+    "Off by default": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spento di default"
+          }
+        }
+      }
+    },
+    "On iPhone, open Settings > Sync with Hex > Choose Sync Folder, and pick iCloud Drive > Hex Mobile.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su iPhone apri Impostazioni > Sincronizza con Hex > Scegli cartella di sincronizzazione e seleziona iCloud Drive > Hex Mobile."
+          }
+        }
+      }
+    },
+    "On this iPhone": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su questo iPhone"
+          }
+        }
+      }
+    },
+    "On your Mac, install the sync script from the mac/ folder of this project. It exports the Hex vocabulary and text rules to iCloud Drive > Hex Mobile.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sul Mac installa lo script di sincronizzazione dalla cartella mac/ di questo progetto. Esporta il vocabolario e le regole di testo di Hex in iCloud Drive > Hex Mobile."
+          }
+        }
+      }
+    },
+    "On-device recognition does not support %@. Choose another language in Settings.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il riconoscimento sul dispositivo non supporta %@. Scegli un'altra lingua nelle Impostazioni."
+          }
+        }
+      }
+    },
+    "Open Control Center and tap + in the top-left corner.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri il Centro di Controllo e tocca + in alto a sinistra."
+          }
+        }
+      }
+    },
+    "Open the Settings app and choose Action Button.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri l'app Impostazioni e scegli Tasto Azione."
+          }
+        }
+      }
+    },
+    "Open the Settings app, then General > Keyboard > Keyboards > Add New Keyboard, and choose Hex Mobile.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri l'app Impostazioni, poi Generali > Tastiera > Tastiere > Aggiungi nuova tastiera, e scegli Hex Mobile."
+          }
+        }
+      }
+    },
+    "Output": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uscita"
+          }
+        }
+      }
+    },
+    "Pending": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In attesa"
+          }
+        }
+      }
+    },
+    "Pick the sync folder in Settings to send these terms to your Mac.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scegli la cartella di sincronizzazione nelle Impostazioni per inviare questi termini al Mac."
+          }
+        }
+      }
+    },
+    "Pick the “%@” folder in iCloud Drive that the Mac script writes. Nothing else on your iPhone is shared.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scegli la cartella «%@» in iCloud Drive che scrive lo script del Mac. Nient'altro del tuo iPhone viene condiviso."
+          }
+        }
+      }
+    },
+    "Please wait…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attendi…"
+          }
+        }
+      }
+    },
+    "Prepare Whisper": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prepara Whisper"
+          }
+        }
+      }
+    },
+    "Preparing": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparazione"
+          }
+        }
+      }
+    },
+    "Press the Action Button to start dictation, and press it again to stop. The text is copied to the clipboard, and the microphone turns off as soon as the Hex Mobile keyboard has taken the text, after a minute at most, unless a flow session was already running.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Premi il Tasto Azione per avviare la dettatura e premilo di nuovo per fermarla. Il testo viene copiato negli appunti e il microfono si spegne appena la tastiera Hex Mobile ha preso il testo, al massimo dopo un minuto, a meno che una sessione flow fosse già attiva."
+          }
+        }
+      }
+    },
+    "Read-only": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sola lettura"
+          }
+        }
+      }
+    },
+    "Read-only. Edit these in Hex on your Mac.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sola lettura. Modificali in Hex sul Mac."
+          }
+        }
+      }
+    },
+    "Ready": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pronto"
+          }
+        }
+      }
+    },
+    "Ready (loaded in %@ s)": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pronto (caricato in %@ s)"
+          }
+        }
+      }
+    },
+    "Recognition": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riconoscimento"
+          }
+        }
+      }
+    },
+    "Recognizer": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motore"
+          }
+        }
+      }
+    },
+    "Remove": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rimuovi"
+          }
+        }
+      }
+    },
+    "Replacements": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sostituzioni"
+          }
+        }
+      }
+    },
+    "Retry": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riprova"
+          }
+        }
+      }
+    },
+    "Runs top to bottom": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dall'alto in basso"
+          }
+        }
+      }
+    },
+    "Search history": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerca nella cronologia"
+          }
+        }
+      }
+    },
+    "Search terms": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerca termini"
+          }
+        }
+      }
+    },
+    "Sent at the next sync": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inviati alla prossima sincronizzazione"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impostazioni"
+          }
+        }
+      }
+    },
+    "Setup Guides": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guide alla configurazione"
+          }
+        }
+      }
+    },
+    "Share": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Condividi"
+          }
+        }
+      }
+    },
+    "Share History with Mac": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Condividi cronologia con il Mac"
+          }
+        }
+      }
+    },
+    "Skipped on iPhone: %@. Only built-in transformations run here.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saltate su iPhone: %@. Qui funzionano solo le trasformazioni integrate."
+          }
+        }
+      }
+    },
+    "Sounds like": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suona come"
+          }
+        }
+      }
+    },
+    "Speak now…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parla ora…"
+          }
+        }
+      }
+    },
+    "Speech (on-device)": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speech (sul dispositivo)"
+          }
+        }
+      }
+    },
+    "Speech Model": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modello vocale"
+          }
+        }
+      }
+    },
+    "Speech model needed": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Serve il modello vocale"
+          }
+        }
+      }
+    },
+    "Speech recognition access is off. Turn it on in Settings > Privacy & Security > Speech Recognition.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'accesso al riconoscimento vocale è disattivato. Attivalo in Impostazioni > Privacy e sicurezza > Riconoscimento vocale."
+          }
+        }
+      }
+    },
+    "Spelling to produce": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grafia da ottenere"
+          }
+        }
+      }
+    },
+    "Start Flow Session": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia sessione flow"
+          }
+        }
+      }
+    },
+    "Start dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia dettatura"
+          }
+        }
+      }
+    },
+    "Starting…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvio…"
+          }
+        }
+      }
+    },
+    "Starts dictation. Run it again to stop, transcribe on this iPhone and copy the text. The microphone then turns off as soon as the Hex Mobile keyboard has taken the text, after a minute at most, unless a flow session was already running.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avvia la dettatura. Eseguilo di nuovo per fermarla, trascrivere su questo iPhone e copiare il testo. Poi il microfono si spegne appena la tastiera Hex Mobile ha preso il testo, al massimo dopo un minuto, a meno che una sessione flow fosse già attiva."
+          }
+        }
+      }
+    },
+    "Status": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stato"
+          }
+        }
+      }
+    },
+    "Stop Dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma dettatura"
+          }
+        }
+      }
+    },
+    "Stop dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma dettatura"
+          }
+        }
+      }
+    },
+    "Stops the current dictation or ends the flow session.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferma la dettatura in corso o termina la sessione flow."
+          }
+        }
+      }
+    },
+    "Swipe to Controls, tap Choose a Control, and pick Hex Dictation. Alternatively pick Shortcut and choose Dictate with Hex Mobile.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scorri fino a Controlli, tocca Scegli un controllo e seleziona Dettatura Hex. In alternativa scegli Comando rapido e seleziona Detta con Hex Mobile."
+          }
+        }
+      }
+    },
+    "Sync Now": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sincronizza ora"
+          }
+        }
+      }
+    },
+    "Sync with Hex": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sincronizza con Hex"
+          }
+        }
+      }
+    },
+    "Sync with Hex on Mac": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sincronizza con Hex sul Mac"
+          }
+        }
+      }
+    },
+    "Tap Add a Control and search for Hex Dictation.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca Aggiungi un controllo e cerca Dettatura Hex."
+          }
+        }
+      }
+    },
+    "Tap Hex Mobile in the list and turn on Allow Full Access. The keyboard needs it to read the dictation from the clipboard; it has no network access.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca Hex Mobile nell'elenco e attiva Consenti accesso completo. Alla tastiera serve per leggere la dettatura dagli appunti; non ha accesso alla rete."
+          }
+        }
+      }
+    },
+    "Tap the control to start dictation and again to stop. A Live Activity shows while recording.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca il controllo per avviare la dettatura e di nuovo per fermarla. Durante la registrazione compare un'attività in tempo reale."
+          }
+        }
+      }
+    },
+    "Tap to copy.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca per copiare."
+          }
+        }
+      }
+    },
+    "Tap to start · Hold to talk": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca per iniziare · Tieni premuto per parlare"
+          }
+        }
+      }
+    },
+    "Tap to stop": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca per fermare"
+          }
+        }
+      }
+    },
+    "Term": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termine"
+          }
+        }
+      }
+    },
+    "Terms": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Termini"
+          }
+        }
+      }
+    },
+    "Terms you add in the Vocabulary tab are written to the same folder and added to Hex the next time the Mac script runs while Hex is open.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I termini aggiunti nella scheda Vocabolario vengono scritti nella stessa cartella e aggiunti a Hex alla prossima esecuzione dello script sul Mac con Hex aperto."
+          }
+        }
+      }
+    },
+    "Text Cleanup": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pulizia del testo"
+          }
+        }
+      }
+    },
+    "The Hex Mobile keyboard can dictate in any app. Ends at %@ if unused.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La tastiera Hex Mobile può dettare in qualsiasi app. Termina alle %@ se non la usi."
+          }
+        }
+      }
+    },
+    "The Hex Mobile keyboard can dictate in any app. Stays on until you end it.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La tastiera Hex Mobile può dettare in qualsiasi app. Resta attiva finché non la termini."
+          }
+        }
+      }
+    },
+    "The Whisper model is not on this iPhone. Copy it from your Mac with make push-whisper-model (see the README).": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il modello Whisper non è su questo iPhone. Copialo dal Mac con make push-whisper-model (vedi il README)."
+          }
+        }
+      }
+    },
+    "The audio and the texts of the kept dictations are deleted from this iPhone.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'audio e i testi delle dettature conservate vengono eliminati da questo iPhone."
+          }
+        }
+      }
+    },
+    "The audio route changed. Try again.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'uscita audio è cambiata. Riprova."
+          }
+        }
+      }
+    },
+    "The audio session could not start: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile avviare la sessione audio: %@"
+          }
+        }
+      }
+    },
+    "The flow session ended because the audio route changed: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La sessione flow è terminata perché l'uscita audio è cambiata: %@"
+          }
+        }
+      }
+    },
+    "The folder could not be saved: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile salvare la cartella: %@"
+          }
+        }
+      }
+    },
+    "The language model does not support the recognition language.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il modello linguistico non supporta la lingua di riconoscimento."
+          }
+        }
+      }
+    },
+    "The language model is not available.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il modello linguistico non è disponibile."
+          }
+        }
+      }
+    },
+    "The language model is still downloading. Try again later.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il modello linguistico si sta ancora scaricando. Riprova più tardi."
+          }
+        }
+      }
+    },
+    "The microphone format is not compatible with the speech recognizer.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il formato del microfono non è compatibile con il riconoscimento vocale."
+          }
+        }
+      }
+    },
+    "The model folder %@ is incomplete: %@ is missing.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cartella del modello %@ è incompleta: manca %@."
+          }
+        }
+      }
+    },
+    "The previous dictation is still stopping. Try again in a moment.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La dettatura precedente si sta ancora fermando. Riprova tra un attimo."
+          }
+        }
+      }
+    },
+    "The shared history file is removed from the folder. Synced rules stay on this iPhone until you pick a folder again.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il file della cronologia condivisa viene rimosso dalla cartella. Le regole sincronizzate restano su questo iPhone finché non scegli di nuovo una cartella."
+          }
+        }
+      }
+    },
+    "The speech model for %@ is installed but cannot be loaded on this device.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il modello vocale per %@ è installato ma non può essere caricato su questo dispositivo."
+          }
+        }
+      }
+    },
+    "The speech model for %@ is not installed yet. Install it from Settings or the Dictate screen.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il modello vocale per %@ non è ancora installato. Installalo dalle Impostazioni o dalla schermata Detta."
+          }
+        }
+      }
+    },
+    "The sync folder could not be read or written: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile leggere o scrivere la cartella di sincronizzazione: %@"
+          }
+        }
+      }
+    },
+    "The system did not offer the speech model for %@ for download. Try again later.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il sistema non ha offerto il download del modello vocale per %@. Riprova più tardi."
+          }
+        }
+      }
+    },
+    "The tokenizer files are missing (%@). Without them the library would download them, which this app never does.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mancano i file del tokenizer (%@). Senza, la libreria li scaricherebbe, cosa che questa app non fa mai."
+          }
+        }
+      }
+    },
+    "This iPhone does not support Apple Intelligence.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questo iPhone non supporta Apple Intelligence."
+          }
+        }
+      }
+    },
+    "This removes the history from this iPhone and from the shared history file. It cannot be undone.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cronologia viene rimossa da questo iPhone e dal file della cronologia condivisa. L'operazione non si può annullare."
+          }
+        }
+      }
+    },
+    "This term is already pending.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questo termine è già in attesa."
+          }
+        }
+      }
+    },
+    "Through iCloud Drive": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tramite iCloud Drive"
+          }
+        }
+      }
+    },
+    "Toggle Dictation": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva/disattiva dettatura"
+          }
+        }
+      }
+    },
+    "Transcribing": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trascrizione"
+          }
+        }
+      }
+    },
+    "Transcribing…": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trascrizione…"
+          }
+        }
+      }
+    },
+    "Transcription runs entirely on this iPhone. Your Hex vocabulary is used as a hint to the recognizer.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La trascrizione avviene interamente su questo iPhone. Il vocabolario di Hex viene usato come suggerimento per il riconoscimento."
+          }
+        }
+      }
+    },
+    "Transformations": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trasformazioni"
+          }
+        }
+      }
+    },
+    "Try": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prova"
+          }
+        }
+      }
+    },
+    "Turn on Apple Intelligence in Settings > Apple Intelligence & Siri to use this.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva Apple Intelligence in Impostazioni > Apple Intelligence e Siri per usarlo."
+          }
+        }
+      }
+    },
+    "Turn on Live Activities for Hex Mobile in Settings > Hex Mobile. A flow session started from Shortcuts needs one.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva le Attività in tempo reale per Hex Mobile in Impostazioni > Hex Mobile. Una sessione flow avviata da Comandi rapidi ne ha bisogno."
+          }
+        }
+      }
+    },
+    "Turn on Live Activities for Hex Mobile in Settings > Hex Mobile. Dictation from the Action Button, Shortcuts or Control Center needs one to record.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attiva le Attività in tempo reale per Hex Mobile in Impostazioni > Hex Mobile. La dettatura dal tasto Azione, da Comandi rapidi o da Centro di Controllo ne ha bisogno per registrare."
+          }
+        }
+      }
+    },
+    "Type what you might say": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scrivi cosa potresti dire"
+          }
+        }
+      }
+    },
+    "Used right away on iPhone and added to Hex on your Mac at the next sync. Sounds-like phrases are replaced with the term.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usato subito su iPhone e aggiunto a Hex sul Mac alla prossima sincronizzazione. Le frasi «suona come» vengono sostituite con il termine."
+          }
+        }
+      }
+    },
+    "Using the last synced rules stored on this iPhone.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uso le ultime regole sincronizzate salvate su questo iPhone."
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versione"
+          }
+        }
+      }
+    },
+    "Vocabulary": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vocabolario"
+          }
+        }
+      }
+    },
+    "What Hex pastes": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cosa incolla Hex"
+          }
+        }
+      }
+    },
+    "When on, the audio and the texts (as heard, fixed and inserted) of the last %lld dictations stay in this app so a Mac tool can compare recognizers on them. They are never synced, never part of the history export, and excluded from backups. Turning this off stops keeping new ones; the kept ones stay until you delete them.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se attivo, l'audio e i testi (come sentiti, sistemati e inseriti) delle ultime %lld dettature restano in questa app, così uno strumento sul Mac può confrontare i riconoscitori sulle stesse registrazioni. Non vengono mai sincronizzati, non entrano nell'esportazione della cronologia e sono esclusi dai backup. Se lo spegni, smette di conservarne di nuove; quelle già conservate restano finché non le elimini."
+          }
+        }
+      }
+    },
+    "While a flow session is active the microphone stays ready in the background (iOS shows the microphone indicator) and the Hex Mobile keyboard can start dictation in any app. Audio is discarded until you dictate. With Bluetooth headphones, keeping the microphone open can switch them to the lower-quality headset mode until the session ends.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durante una sessione flow il microfono resta pronto in background (iOS mostra l'indicatore del microfono) e la tastiera Hex Mobile può avviare la dettatura in qualsiasi app. L'audio viene scartato finché non detti. Con le cuffie Bluetooth, tenere aperto il microfono può farle passare alla modalità auricolare, di qualità inferiore, fino alla fine della sessione."
+          }
+        }
+      }
+    },
+    "While it listens, tap ✓ (or the microphone) to stop: the text is inserted where the cursor is. ✕ cancels. While a flow session is running (Dictate tab or Settings), the microphone dictates without leaving the app.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mentre ascolta, tocca ✓ (o il microfono) per fermare: il testo viene inserito dove si trova il cursore. ✕ annulla. Mentre una sessione flow è attiva (scheda Detta o Impostazioni), il microfono detta senza uscire dall'app."
+          }
+        }
+      }
+    },
+    "Whisper": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whisper"
+          }
+        }
+      }
+    },
+    "Whisper Model": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modello Whisper"
+          }
+        }
+      }
+    },
+    "No record of Whisper loading on this iPhone yet, or iOS was updated since. The first load makes Core ML compile the model for the Neural Engine and took about 12 minutes on an iPhone 16 Pro. Tap Prepare Whisper and keep Hex Mobile open on screen until the status says Ready. Until then Apple's text is used.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nessuna traccia di un caricamento di Whisper su questo iPhone, oppure iOS è stato aggiornato da allora. Il primo caricamento fa compilare il modello a Core ML per il Neural Engine e su un iPhone 16 Pro è durato circa 12 minuti. Tocca Prepara Whisper e tieni Hex Mobile aperta sullo schermo finché lo stato non dice Pronto. Fino ad allora si usa il testo di Apple."
+          }
+        }
+      }
+    },
+    "With Never, a session you start stays on until you end it, and the Dynamic Island says so. A session the Action Button starts still ends after its dictation.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con Mai, una sessione che avvii resta attiva finché non la termini, e la Dynamic Island lo indica. Una sessione avviata dal pulsante Azione termina comunque dopo la sua dettatura."
+          }
+        }
+      }
+    },
+    "iOS does not always allow keyboards to open apps; if nothing happens, open Hex Mobile and start a flow session there, then come back.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS non sempre permette alle tastiere di aprire app: se non succede nulla, apri Hex Mobile, avvia lì una sessione flow e poi torna qui."
+          }
+        }
+      }
+    },
+    "iOS may ask to confirm the first time. The microphone indicator stays on while recording.": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La prima volta iOS potrebbe chiedere conferma. Durante la registrazione l'indicatore del microfono resta acceso."
+          }
+        }
+      }
+    },
+    "pending-vocabulary.json in the sync folder could not be read, so it was left unchanged: %@": {
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non è stato possibile leggere pending-vocabulary.json nella cartella di sincronizzazione, quindi è stato lasciato invariato: %@"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

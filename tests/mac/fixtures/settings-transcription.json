@@ -1,0 +1,8 @@
+{
+  "version": 4,
+  "status": "settings",
+  "settings": [
+    { "key": "transcription.model", "value": "fixture_model", "kind": "text", "writable": false, "about": "The dictation model", "available": true },
+    { "key": "transcription.language", "value": "it", "kind": "text", "writable": false, "about": "The dictation language", "available": true }
+  ]
+}

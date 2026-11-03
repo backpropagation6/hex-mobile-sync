@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "status": "vocabulary",
+  "entries": [
+    { "term": "Kubernetes", "sounds_like": ["cube nettis", "cooper netties"] },
+    { "term": "PostgreSQL", "sounds_like": ["post gress"] },
+    { "term": "Perché", "sounds_like": null }
+  ]
+}

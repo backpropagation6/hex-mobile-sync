@@ -1,0 +1,53 @@
+{
+  "version": 4,
+  "status": "settings",
+  "settings": [
+    {
+      "key": "dictation_processing.default_mode",
+      "value": {
+        "applications": [],
+        "browser_hosts": [],
+        "name": "Global",
+        "post_processing": {
+          "deadline_seconds": 10,
+          "enabled": false,
+          "model": null,
+          "prompt": "Synthetic prompt that must never be exported to the phone.",
+          "variant": null
+        },
+        "replacements": [
+          { "matched_phrase": "punto e virgola", "output": ";" },
+          { "matched_phrase": "a capo", "output": "\n" }
+        ],
+        "transformations": []
+      },
+      "kind": "json",
+      "writable": true,
+      "about": "The Global mode: replacements, transformations, and rewriting",
+      "available": true
+    },
+    {
+      "key": "dictation_processing.modes",
+      "value": [
+        {
+          "applications": ["Terminal", "ExampleTerm"],
+          "browser_hosts": [],
+          "name": "Terminal",
+          "post_processing": {
+            "deadline_seconds": 10,
+            "enabled": false,
+            "model": null,
+            "prompt": "Synthetic prompt that must never be exported to the phone.",
+            "variant": null
+          },
+          "replacements": [ { "matched_phrase": "slash", "output": "/" } ],
+          "transformations": ["no-trailing-punctuation"]
+        }
+      ],
+      "kind": "json",
+      "writable": true,
+      "about": "Modes for specific apps and websites, as a JSON array",
+      "available": true
+    }
+  ]
+}

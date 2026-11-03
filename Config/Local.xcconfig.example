@@ -1,0 +1,8 @@
+// Copy to Config/Local.xcconfig (gitignored) and fill in.
+//
+// Find your team ID in Xcode > Settings > Accounts > (your Apple ID) > team,
+// or in the "Signing & Capabilities" tab after selecting your team once.
+DEVELOPMENT_TEAM = ABCDE12345
+
+// Must be unique to you when signing with a free Personal Team.
+BUNDLE_ID_PREFIX = com.example.yourname

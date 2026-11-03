@@ -1,0 +1,54 @@
+{
+  "version": 4,
+  "status": "settings",
+  "settings": [
+    {
+      "key": "dictation_processing.default_mode",
+      "kind": "json",
+      "writable": true,
+      "available": true,
+      "about": "The Global mode: replacements, transformations, and rewriting",
+      "value": {
+        "name": "Global",
+        "applications": [],
+        "browser_hosts": [],
+        "replacements": [
+          { "matched_phrase": "new paragraph", "output": "\n\n" },
+          { "matched_phrase": "smiley face", "output": ":)" }
+        ],
+        "transformations": ["lowercase"],
+        "post_processing": {
+          "enabled": true,
+          "prompt": "FIXTURE-SECRET-PROMPT",
+          "model": "fixture-model",
+          "variant": "fixture-variant",
+          "deadline_seconds": 5
+        }
+      }
+    },
+    {
+      "key": "dictation_processing.modes",
+      "kind": "json",
+      "writable": true,
+      "available": true,
+      "about": "Modes for specific apps and websites, as a JSON array",
+      "value": [
+        {
+          "name": "Terminal",
+          "applications": ["Terminal", "Example Shell"],
+          "browser_hosts": [],
+          "replacements": [],
+          "transformations": ["no-trailing-punctuation", "fixture-custom-command"],
+          "post_processing": {
+            "enabled": false,
+            "prompt": "FIXTURE-SECRET-PROMPT",
+            "model": "fixture-model",
+            "variant": "fixture-variant",
+            "deadline_seconds": 5
+          },
+          "future_field": "ignored"
+        }
+      ]
+    }
+  ]
+}

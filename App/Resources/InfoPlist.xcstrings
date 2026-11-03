@@ -1,0 +1,30 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "NSMicrophoneUsageDescription": {
+      "comment": "Info.plist usage description",
+      "extractionState": "manual",
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hex Mobile registra la tua voce per trascriverla su questo iPhone. L'audio non lascia mai il dispositivo."
+          }
+        }
+      }
+    },
+    "NSSpeechRecognitionUsageDescription": {
+      "comment": "Info.plist usage description",
+      "extractionState": "manual",
+      "localizations": {
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hex Mobile usa il riconoscimento vocale sul dispositivo per trasformare la voce in testo. Nulla viene inviato a un server."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
