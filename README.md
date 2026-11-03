@@ -1,7 +1,7 @@
 # Hex Mobile Sync
 
 On-device dictation for iPhone that shares its vocabulary and text rules with
-[Hex](https://github.com/anomalyco/hex), the dictation app, through Hex on your Mac.
+[Hex](https://github.com/anomalyco/hex) on your Mac.
 
 > **Unofficial.** Hex Mobile Sync is a community companion to Hex. It is not
 > affiliated with, endorsed by or supported by Hex, its author or Anomaly.
