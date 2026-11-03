@@ -8,8 +8,9 @@ On-device dictation for iPhone that shares its vocabulary and text rules with
 > Please report problems here, not to the Hex project.
 
 **Status: usable, with rough edges.** It works for everyday dictation on the
-author's iPhone; the known imperfections are listed in
-[Limitations](#limitations). Reports and fixes are welcome.
+author's iPhone, keyboard and Action Button included; the known imperfections
+are listed in [Limitations](#limitations). The author fixes what breaks when it
+turns up, and reports and fixes are welcome.
 
 Hex Mobile Sync is distributed as source only. You build it with Xcode and
 install it on your own iPhone. There is no App Store build and no prebuilt
@@ -785,20 +786,28 @@ Read both before attaching them to an issue.
   text, which then goes to the cleanup), only the `large-v3` model family is
   accepted, and the model must be copied by hand.
 
+### Verified on a real device
+
+Confirmed by the author on an iPhone 16 Pro (3 Nov 2026), with everyday use:
+
+- Dictating into other apps with the Hex keyboard, including the Darwin
+  notifications between the app and the keyboard without an App Group.
+- Starting a dictation from the Action Button with the app in the background,
+  with the Live Activity on the Lock Screen and in the Dynamic Island.
+
 ### Not yet verified on a real device
 
 These parts build and are covered by unit tests where possible, but have not
 been confirmed on a physical iPhone. Reports are welcome.
 
-- Darwin notifications between the app and the keyboard without an App Group.
 - Opening the app from the keyboard (`hexmobile://dictate`) on iOS 27, and
   whether iOS shows its way-back button at the top left when the link comes
   from a keyboard.
 - Whether passing vocabulary terms as recognizer context improves accuracy.
 - launchd `WatchPaths` on a file inside iCloud Drive: it fires only once the
   file is downloaded locally; the 15-minute interval covers the rest.
-- Background recording started from the Action Button and Control Center, and
-  the Live Activity flow, across iOS versions.
+- Background recording started from Control Center, and the Action Button and
+  Live Activity flow on iOS versions other than the author's.
 - Audio route changes and media services resets during a recording or a flow
   session (Bluetooth headphones, CarPlay).
 - Flushing the converter's held-over audio at the end of a dictation, so the
@@ -860,7 +869,8 @@ CI.
 
 This project was written to be given away. If the Hex maintainers want it, the
 repository will be transferred to them, or merged into Hex, under whatever name
-they choose; until then it stays here, unofficial, under the MIT license. The
+they choose; until then it stays here, unofficial, under the MIT license, and
+the author keeps fixing what breaks. The
 offer is open in the Hex issue tracker.
 
 ## License
