@@ -7,6 +7,10 @@ On-device dictation for iPhone that shares its vocabulary and text rules with
 > affiliated with, endorsed by or supported by Hex, its author or Anomaly.
 > Please report problems here, not to the Hex project.
 
+**Status: usable, with rough edges.** It works for everyday dictation on the
+author's iPhone; the known imperfections are listed in
+[Limitations](#limitations). Reports and fixes are welcome.
+
 Hex Mobile Sync is distributed as source only. You build it with Xcode and
 install it on your own iPhone. There is no App Store build and no prebuilt
 binary.
