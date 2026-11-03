@@ -841,7 +841,14 @@ been confirmed on a physical iPhone. Reports are welcome.
 
 Contributions are welcome: issues, device reports and pull requests. See
 [CONTRIBUTING.md](CONTRIBUTING.md) for how to build, test and what a pull
-request needs. Reports from real iPhones are the most useful thing right now:
+request needs.
+
+> **CI does not build the app yet.** GitHub's macOS runners ship Xcode 26, and
+> this project needs Xcode 27. Until they update, CI runs only the Mac script
+> tests: before opening a pull request run `make test-core` and
+> `make build-device` locally and paste the result in the pull request.
+
+Reports from real iPhones are the most useful thing right now:
 the keyboard, the Action Button and background recording cannot be tested in
 CI.
 
