@@ -39,7 +39,10 @@ review:
 
 ## Checks to run before a pull request
 
-The same checks run in CI (`.github/workflows/ci.yml`):
+The same checks run in CI (`.github/workflows/ci.yml`). The build and the
+core tests need Xcode 27; while GitHub's macOS runners ship only Xcode 26,
+CI skips them with a warning and only the Mac script tests really run, so run
+the first three locally:
 
 ```sh
 make test-core                 # swift test in Packages/HexMobileCore
